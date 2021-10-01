@@ -1,6 +1,6 @@
 #Get two words or strings as input
-string1 = input('Enter your word or sentence: ').lower()
-string2 = input('Enter your word or sentence: ').lower()
+string1 = ("comupters").lower()
+string2 = ("house").lower()
 #Compare the two strings
 result=[] 
 if(len(string1)<len(string2)): 

@@ -1,4 +1,4 @@
-sentence = input('Enter your word or sentence: ').lower()
+sentence = ("Umuzi").lower()
 print("Vowels:")
 for vowel in 'aeiou':
      if vowel in sentence:

@@ -1,7 +1,7 @@
 # Get three triangle lenghts from user x,y,z:  
-x = float(input('Enter first side: '))  
-y = float(input('Enter second side: '))  
-z = float(input('Enter third side: '))  
+x = float(5)  
+y = float(6)  
+z = float(7)  
   
 # determine half of the perimeter  
 s = (x + y + z) / 2  
